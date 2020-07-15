@@ -1,0 +1,25 @@
+{
+    "notes": [
+        {
+            "id": 1,
+            "noteID": "1",
+            "createDateTime": "DateTime.now()",
+            "lastEditDateTime": "DateTime.now()",
+            "noteTitle": "Note1"
+        },
+        {
+            "id": 2,
+            "noteID": "2",
+            "createDateTime": "DateTime.now()",
+            "lastEditDateTime": "DateTime.now()",
+            "noteTitle": "Note2"
+        },
+        {
+            "id": 3,
+            "noteID": "3",
+            "createDateTime": "DateTime.now()",
+            "lastEditDateTime": "DateTime.now()",
+            "noteTitle": "Note3"
+        }
+    ]
+}
